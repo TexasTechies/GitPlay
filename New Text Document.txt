@@ -1,5 +1,5 @@
 This is a test file for git
 
-Added second line to test update
+Added second line to test update. I am making a minor change.
 
 Added third line to test update again
